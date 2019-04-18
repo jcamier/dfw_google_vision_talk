@@ -1,0 +1,7 @@
+{
+"RESULT_TOPIC": "image_text",
+"RESULT_BUCKET": "image_bucket",
+"TRANSLATE_TOPIC": "tranlate_topic",
+"TRANSLATE": true,
+"TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
